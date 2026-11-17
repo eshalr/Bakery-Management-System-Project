@@ -1,12 +1,12 @@
-Bakery Management System
+# Bakery Management System
 
-Project Overview
+# Project Overview
 
 A Java-based bakery management application developed as a group project. The system allows users to manage customer orders, customize bakery products, and calculate prices based on dessert selections and quantities.
 
 The application uses object-oriented programming principles and Java Swing dialog boxes to provide an interactive ordering experience.
 
-Features
+# Features
 
 Order Management: Add, remove, search, and display customer orders.
 
@@ -20,7 +20,7 @@ Input Validation: Check user inputs and display error messages for invalid entri
 
 Interactive Interface: Use Java Swing dialog boxes to navigate the system.
 
-Technologies Used
+# Technologies Used
 
 Java
 
@@ -44,7 +44,7 @@ Arrays and conditional statements
 
 Exception handling
 
-How to Run
+# How to Run
 
 Download or clone this repository.
 
@@ -56,7 +56,7 @@ Run the main() method.
 
 Follow the on-screen prompts to manage bakery orders.
 
-Project Structure
+# Project Structure
 
 BakeryImp.java – Main application and menu functionality.
 
@@ -74,6 +74,6 @@ CustomerInfo.java – Customer details and payment information.
 
 Order.java – Order identification and occasion details.
 
-Project Type
+# Project Type
 
 Collaborative Java programming project focused on applying object-oriented programming concepts to a bakery ordering system.
